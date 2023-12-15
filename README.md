@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Sinanovic</h1>
-<h3 align="left">A passionate web developer and Software engineering student</h3>
-
-- 🌱 I’m currently learning **React Native, Phyton**
+<h3 align="left">A passionate web developer and Software engineer</h3>
 
 - 📫 How to reach me **ahmed.sinanovic.20@size.ba**
 
